@@ -1,5 +1,5 @@
 # Learning-Resources
-I realized that it is important to save all the good resources links to give to other researchers to learn.
+I realized that it is important to save all the good resource's links to give to other researchers to learn.
 
 ## Deep Learning
 https://deeplearning.cs.cmu.edu/S20/index.html
